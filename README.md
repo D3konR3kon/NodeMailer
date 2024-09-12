@@ -1,7 +1,8 @@
-# Basic Node Express for NodeMailer App
+# Basic Node Express for NodeMailer App 📨
 
-### This configured to send emails and attach files to an email built using the following:
+### This allow you to send emails with attachments as well,  I used the following:
 - Node
 - Express
 - Nodemailer
 
+Feel free to clone and improve the code🍻
